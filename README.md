@@ -1,8 +1,3 @@
-Aquí tienes un **README.md** para el repositorio de tu página web **BlandfordDev**, diseñado para resaltar tus servicios y destacar la presencia de tu empresa en GitHub:
-
----
-
-```markdown
 # BlandfordDev 🚀
 
 ![BlandfordDev Logo](public\logo.png)
