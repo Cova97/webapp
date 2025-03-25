@@ -1,6 +1,6 @@
 # BlandfordDev 🚀
 
-![BlandfordDev Logo](public\logo.png)
+![BlandfordDev Logo](https://github.com/Cova97/webapp/blob/master/public/logo.png)
 
 ### Innovación en Desarrollo de Software 🔥
 
