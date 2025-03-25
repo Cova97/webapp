@@ -310,14 +310,16 @@ export default function Home() {
             {/* Testimonial 1 */}
             <div className="bg-white p-8 rounded-lg shadow-lg text-gray-800">
               <div className="flex justify-center mb-4">
-              <img 
-                src="/images/moodguardlogo.png" 
-                alt="Avatar" 
-                className="w-16 h-16 rounded-full object-cover"
-              />
+                <Image 
+                  src="/images/moodguardlogo.png" 
+                  alt="Avatar" 
+                  width={64}
+                  height={64}
+                  className="rounded-full object-cover"
+                />
               </div>
               <h3 className="text-xl font-bold mb-4 text-center">Chat mood guard</h3>
-              <p className="text-center mb-6">"Pedí que se creara este chat para ayudarme a detectar señales y signos de depresión y otros trastornos psicológicos, y debo decir que la persona que desarrolló esta herramienta hizo un trabajo excelente. El chat cumple perfectamente con las funciones que necesitaba, permitiéndome identificar de manera clara y precisa los síntomas de varios trastornos mentales. Además, está específicamente diseñado para tratar temas relacionados con la salud mental, lo que lo hace muy efectivo y enfocado, sin desviarse hacia otros temas ajenos. Esto me dio mucha confianza, ya que pude obtener información relevante y útil sobre mi bienestar psicológico. Aprecio mucho el esfuerzo y la dedicación que se pusieron en el desarrollo de esta herramienta, y sin duda ha sido un gran apoyo en mi proceso para entender mejor los trastornos psicológicos."</p>
+              <p className="text-center mb-6">&quot;Pedí que se creara este chat para ayudarme a detectar señales y signos de depresión y otros trastornos psicológicos, y debo decir que la persona que desarrolló esta herramienta hizo un trabajo excelente. El chat cumple perfectamente con las funciones que necesitaba, permitiéndome identificar de manera clara y precisa los síntomas de varios trastornos mentales. Además, está específicamente diseñado para tratar temas relacionados con la salud mental, lo que lo hace muy efectivo y enfocado, sin desviarse hacia otros temas ajenos. Esto me dio mucha confianza, ya que pude obtener información relevante y útil sobre mi bienestar psicológico. Aprecio mucho el esfuerzo y la dedicación que se pusieron en el desarrollo de esta herramienta, y sin duda ha sido un gran apoyo en mi proceso para entender mejor los trastornos psicológicos.&quot;</p>
               {/* Sistema de calificación con estrellas */}
               <div className="flex justify-center items-center mb-4">
                 <div className="flex">
@@ -345,14 +347,16 @@ export default function Home() {
             {/* Testimonial 2 */}
             <div className="bg-white p-8 rounded-lg shadow-lg text-gray-800">
               <div className="flex justify-center mb-4">
-                <img 
+                <Image 
                   src="/images/escribialogo.png" 
                   alt="Avatar" 
-                  className="w-16 h-16 rounded-full object-cover"
+                  width={64}
+                  height={64}
+                  className="rounded-full object-cover"
                 />
               </div>
               <h3 className="text-xl font-bold mb-4 text-center">EscribIA</h3>
-              <p className="text-center mb-6">"Me ha ayudado muchísimo a detectar errores ortográficos, faltas de puntuación y acentos que a veces se me pasan por alto. Además, me encanta que no solo señala los errores, sino que también explica cómo corregirlos de manera clara y sencilla. Al final, la calificación y la retroalimentación son súper útiles para aprender y perfeccionar mi redacción. ¡Definitivamente la recomiendo para cualquiera que quiera escribir de manera más profesional y sin errores!"</p>
+              <p className="text-center mb-6">&quot;Me ha ayudado muchísimo a detectar errores ortográficos, faltas de puntuación y acentos que a veces se me pasan por alto. Además, me encanta que no solo señala los errores, sino que también explica cómo corregirlos de manera clara y sencilla. Al final, la calificación y la retroalimentación son súper útiles para aprender y perfeccionar mi redacción. ¡Definitivamente la recomiendo para cualquiera que quiera escribir de manera más profesional y sin errores!&quot;</p>
               {/* Sistema de calificación con estrellas */}
               <div className="flex justify-center items-center mb-4">
                 <div className="flex">
@@ -380,14 +384,16 @@ export default function Home() {
             {/* Testimonial 3 */}
             <div className="bg-white p-8 rounded-lg shadow-lg text-gray-800">
               <div className="flex justify-center mb-4">
-                <img 
-                    src="/images/fasttransnational.webp" 
-                    alt="Avatar" 
-                    className="w-16 h-16 rounded-full object-cover"
-                  />
+                <Image 
+                  src="/images/fasttransnational.webp" 
+                  alt="Avatar" 
+                  width={64}
+                  height={64}
+                  className="rounded-full object-cover"
+                />
               </div>
               <h3 className="text-xl font-bold mb-4 text-center">Fastransnational</h3>
-              <p className="text-center mb-6">"La página web para servicios de seguridad es muy profesional y fácil de navegar. Ofrece información clara sobre los servicios como guardias de seguridad, custodias, cuartos de seguridad y tecnología avanzada para protección. Me gustó que los detalles están bien organizados y es sencillo encontrar lo que uno necesita. Además, el diseño es atractivo y transmite confianza. La única razón por la que no doy 5 estrellas es porque podría mejorar un poco la velocidad de carga en algunas secciones. ¡Pero en general, excelente trabajo!"</p>
+              <p className="text-center mb-6">&quot;La página web para servicios de seguridad es muy profesional y fácil de navegar. Ofrece información clara sobre los servicios como guardias de seguridad, custodias, cuartos de seguridad y tecnología avanzada para protección. Me gustó que los detalles están bien organizados y es sencillo encontrar lo que uno necesita. Además, el diseño es atractivo y transmite confianza. La única razón por la que no doy 5 estrellas es porque podría mejorar un poco la velocidad de carga en algunas secciones. ¡Pero en general, excelente trabajo!&quot;</p>
               {/* Para una calificación de 4 estrellas de 5 */}
               <div className="flex justify-center items-center mb-4">
                 <div className="flex">
