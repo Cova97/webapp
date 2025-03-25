@@ -32,7 +32,7 @@ BlandfordDev es una empresa dedicada al desarrollo de **aplicaciones web**, **ap
 
 ¿Tienes alguna pregunta o deseas trabajar con nosotros?  
 📩 **Email:** acovamartinez@gmail.com  
-🌐 **Sitio Web:** [www.blandforddev.com](https://www.blandforddev.com)
+🌐 **Sitio Web:** [www.blandforddev.com](https://blanford.dev/)
 
 ---
 
