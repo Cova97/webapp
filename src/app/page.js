@@ -473,7 +473,7 @@ export default function Home() {
                 </div>
               </div>
               <Link 
-                href="mailto:acovamartinez@gmail.com?subject=Consulta%20de%20servicios%20BlanfordDev&body=Hola,%20estoy%20interesado%20en%20conocer%20más%20sobre%20sus%20servicios." 
+                href="mailto:ventas@blanford.dev?subject=Consulta%20de%20servicios%20BlanfordDev&body=Hola,%20estoy%20interesado%20en%20conocer%20más%20sobre%20sus%20servicios." 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="mt-auto inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition duration-300 w-full"

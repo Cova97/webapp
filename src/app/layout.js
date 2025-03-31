@@ -96,7 +96,7 @@ export default function RootLayout({ children }) {
                 <h3 className="text-xl font-bold mb-4">Contacto</h3>
                 <p className="text-gray-400 mb-2">Puebla de Zaragoza, Pue., México</p>
                 <p className="text-gray-400 mb-2">5570132697</p>
-                <p className="text-gray-400">acovamartinez@gmail.com</p>
+                <p className="text-gray-400">ventas@blanford.dev</p>
               </div>
             </div>
             
