@@ -26,7 +26,7 @@ export default function Home() {
             Soluciones de Software<br />Innovadoras
           </h1>
           <p className="text-xl md:text-2xl mb-10 max-w-2xl">
-            Transformamos tus ideas en soluciones digitales efectivas.
+            Convertimos tus ideas en soluciones digitales innovadoras y eficientes que impulsan el crecimiento de tu negocio.
           </p>
           <Link href="#contacto" className="bg-teal-500 hover:bg-teal-600 text-white font-bold py-3 px-8 rounded-md inline-block w-fit transition duration-300">
             Contáctanos
@@ -53,7 +53,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-4">Nuestra Misión</h3>
               <p className="text-center text-gray-300">
-                En BlanfordDev, nuestra misión es proporcionar soluciones de software innovadoras que impulsen el crecimiento y la eficiencia de las empresas. Creemos en el poder de la tecnología para transformar procesos y mejorar la experiencia del cliente.
+                En BlanfordDev, nos dedicamos a ofrecer soluciones de software vanguardistas que potencian el crecimiento y optimizan la eficiencia empresarial. Confiamos en la tecnología como herramienta clave para transformar procesos y enriquecer la experiencia del cliente.
               </p>
             </div>
             
@@ -70,7 +70,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-4">Nuestro Equipo</h3>
               <p className="text-center text-gray-300">
-                Contamos con un equipo de expertos apasionados en desarrollo de software y tecnología. Cada miembro de BlanfordDev aporta habilidades únicas y experiencia, lo que nos permite ofrecer un servicio excepcional y soluciones personalizadas.
+                Nuestro equipo está compuesto por profesionales apasionados y expertos en desarrollo de software y tecnología. Cada integrante de BlanfordDev aporta habilidades únicas y una amplia experiencia, permitiéndonos brindar servicios excepcionales y soluciones a medida.
               </p>
             </div>
             
@@ -87,7 +87,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-4">Nuestros Valores</h3>
               <p className="text-center text-gray-300">
-                En BlanfordDev, nos guiamos por valores fundamentales como la integridad, la innovación y el compromiso con nuestros clientes. Trabajamos arduamente para mantener una relación de confianza y transparencia con cada uno de nuestros socios.
+                En BlanfordDev, nuestros pilares son la integridad, la innovación y el compromiso absoluto con nuestros clientes. Nos esforzamos continuamente por cultivar relaciones basadas en la confianza y la transparencia con cada uno de nuestros socios.
               </p>
             </div>
           </div>
@@ -110,7 +110,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Desarrollo Web</h3>
               </div>
-              <p className="text-gray-300 mb-4">Sitios web profesionales y personalizados para tu negocio o proyecto personal.</p>
+              <p className="text-gray-300 mb-4">Creamos sitios web profesionales y personalizados que reflejan la esencia de tu negocio o proyecto personal.</p>
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center">
                   <svg className="w-4 h-4 mr-2 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -143,7 +143,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Aplicaciones Web</h3>
               </div>
-              <p className="text-gray-300 mb-4">Soluciones web avanzadas con funcionalidades complejas y bases de datos.</p>
+              <p className="text-gray-300 mb-4">Desarrollamos aplicaciones web avanzadas con funcionalidades complejas y gestión eficiente de bases de datos.</p>
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center">
                   <svg className="w-4 h-4 mr-2 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -176,7 +176,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Apps Móviles</h3>
               </div>
-              <p className="text-gray-300 mb-4">Aplicaciones nativas e híbridas para iOS y Android.</p>
+              <p className="text-gray-300 mb-4">Diseñamos aplicaciones móviles nativas e híbridas para iOS y Android, enfocadas en ofrecer experiencias de usuario intuitivas y de alto rendimiento.</p>
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center">
                   <svg className="w-4 h-4 mr-2 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -209,7 +209,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Dominios y Hosting</h3>
               </div>
-              <p className="text-gray-300 mb-4">Registro de dominios y alojamiento web de alto rendimiento.</p>
+              <p className="text-gray-300 mb-4">Ofrecemos servicios integrales de registro de dominios y hosting web de alto rendimiento, garantizando estabilidad y velocidad para tu sitio.</p>
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center">
                   <svg className="w-4 h-4 mr-2 text-yellow-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -242,7 +242,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Correos Corporativos</h3>
               </div>
-              <p className="text-gray-300 mb-4">Correos electrónicos profesionales con tu dominio.</p>
+              <p className="text-gray-300 mb-4">Proporcionamos correos electrónicos corporativos personalizados con tu dominio, fortaleciendo la imagen profesional de tu empresa.</p>
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center">
                   <svg className="w-4 h-4 mr-2 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -275,7 +275,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Soluciones con IA</h3>
               </div>
-              <p className="text-gray-300 mb-4">Integración de inteligencia artificial en tus proyectos.</p>
+              <p className="text-gray-300 mb-4">Implementamos soluciones de inteligencia artificial en tus proyectos, automatizando procesos y mejorando la toma de decisiones.</p>
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center">
                   <svg className="w-4 h-4 mr-2 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -426,7 +426,7 @@ export default function Home() {
       <section id="contacto" className="py-20 bg-gradient-to-b from-gray-900 to-black text-white">
         <div className="container mx-auto px-6 max-w-6xl">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-4">¿Listo para comenzar tu proyecto?</h2>
+            <h2 className="text-4xl font-bold mb-4">¿Estás listo para transformar tu idea en una solución digital de vanguardia? Ponte en contacto con nosotros hoy y hagámoslo realidad.</h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
               Contáctanos hoy mismo y descubre cómo podemos llevar tus ideas al siguiente nivel.
             </p>
