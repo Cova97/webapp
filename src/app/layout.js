@@ -2,6 +2,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import Image from "next/image";
+import ChatBot from "./components/ChatBot";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -62,6 +63,9 @@ export default function RootLayout({ children }) {
         </header>
         
         {children}
+        
+        {/* Componente ChatBot añadido aquí */}
+        <ChatBot />
         
         <footer className="bg-gray-900 text-white py-10">
           <div className="container mx-auto px-6">
